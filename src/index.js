@@ -5,6 +5,7 @@ require('dotenv').config()
 
 const PORT = process.env.PORT || 3000
 
+//juf
 const connectDB = require('./config/database')
 connectDB()
 
